@@ -13,4 +13,4 @@ API Java com Spring Boot para uso genérico adequada para criação de imagens d
     - Criar WEB APP
         - rm87088-ping
     - Configurar Deployment
-        - Acessar Central 
+        - Acessar Central uau
